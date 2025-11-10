@@ -16,7 +16,6 @@ def calc_grade(m1, m2, m3, m4, m5):
     print("Average Marks =", avg)
     print("Grade =", grade)
 
-# Main program
 m1 = float(input("Enter marks of subject 1: "))
 m2 = float(input("Enter marks of subject 2: "))
 m3 = float(input("Enter marks of subject 3: "))
